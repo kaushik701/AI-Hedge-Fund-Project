@@ -1,0 +1,16 @@
+langchain_community
+langchain_core
+langchain_deepseek
+langchain_gemini
+langchain_groq
+langchain_google_genai
+ipykernel
+pandas
+pydantic
+numpy
+matplotlib
+statistics
+colorama
+tabulate
+rich
+langgraph
