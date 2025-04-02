@@ -253,10 +253,6 @@ We are open to suggestions and improvements:
 - For bug reports, use the `bug` tag
 - For general feedback, feel free to contact the repository owner
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Acknowledgements
 
 Special thanks to the open-source community and the legendary investors whose philosophies have inspired this project.
